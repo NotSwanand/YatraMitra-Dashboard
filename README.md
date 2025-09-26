@@ -3,6 +3,8 @@
 [YatraMitra Dashboard](https://yatra-mitra-dashboard.vercel.app/) is a modern, interactive web dashboard designed to track and visualize travel-related data.  
 It provides a clean UI and smooth user experience, making it easier to analyze journeys, metrics, and insights.
 
+⚠️ Note: This is still in its very early stage and an unfinished product — features, design, and data integration will keep improving over time.
+
 ---
 
 ## 🚀 Live Demo
